@@ -7,9 +7,13 @@ fun main(args: Array<String>) {
 
 }
 
+fun getFortuneCookie(){
+
+}
+
 fun quiz5GreetingKotlin(){
     // move this line to main function
-//    print("${ if(args[0].toInt()<12) "Good morning, Kotlin" else "Good night, Kotlin"}")
+    // print("${ if(args[0].toInt()<12) "Good morning, Kotlin" else "Good night, Kotlin"}")
 }
 
 fun dayOfWeek(){
