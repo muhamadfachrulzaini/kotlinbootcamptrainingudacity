@@ -4,7 +4,12 @@ import java.util.*
  * Copyright (c) 2019. Muhamad Fachrul Zaini
  */
 fun main(args: Array<String>) {
-    print("this is ${args[0]}")
+
+}
+
+fun quiz5GreetingKotlin(){
+    // move this line to main function
+//    print("${ if(args[0].toInt()<12) "Good morning, Kotlin" else "Good night, Kotlin"}")
 }
 
 fun dayOfWeek(){
